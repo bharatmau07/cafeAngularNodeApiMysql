@@ -1,0 +1,8 @@
+1.For generating package.json files
+->npm init
+
+2.For installing nodemodule folder for apis
+->npm install --save express mysql dotenv cors
+
+3.Installing nodemon package to autochanges and reload.
+->npm install --save-dev nodemon
